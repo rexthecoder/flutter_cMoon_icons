@@ -2,6 +2,8 @@ library flutter_cMoon_icons;
 
 import 'package:flutter/material.dart';
 import 'package:flutter_cMoon_icons/src/icon_data.dart';
+// import 'package:flutter_cMoon_icons/src/c_icon.dart';
+export 'package:flutter_cMoon_icons/src/c_icon.dart';
 export 'package:flutter_cMoon_icons/src/icon_data.dart';
 
 // Auto generated icons

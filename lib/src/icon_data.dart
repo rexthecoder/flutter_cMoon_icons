@@ -9,7 +9,8 @@ class IconDataMoon extends IconData {
   const IconDataMoon(int codePoint, [this.iconIcon])
       : super(
           codePoint,
-          fontFamily: "icomoon",
+          fontFamily: 'icomoon',
+          fontPackage: 'flutter_cMoon_icons',
        
         );
 }
