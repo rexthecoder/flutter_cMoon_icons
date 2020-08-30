@@ -1,0 +1,27 @@
+name: flutter_cMoon_icons
+description:  Flutter Icons package with default colors.
+version: 0.0.1
+author: Rexford Asamoah
+homepage: https://github.com/Rexfordasamoah51/flutter_cMoon_icons
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0 <2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# The following section is specific to Flutter.
+flutter:
+  fonts:
+    - family: icomoon
+      fonts:
+        - asset: lib/fonts/icomoon.ttf
+ 
+ 
