@@ -1,4 +1,4 @@
-library flutter_cMoon_icons;
+library flutter_cmoon_icons;
 
 import 'package:flutter/widgets.dart';
 

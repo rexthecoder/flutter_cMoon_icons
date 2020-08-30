@@ -1,4 +1,4 @@
-import 'package:flutter_cMoon_icons/flutter_cMoon_icons.dart';
+import 'package:flutter_cmoon_icons/flutter_cmoon_icons.dart';
 import 'example_icon.dart';
 
 final icons = <ExampleIcon>[

@@ -1,9 +1,9 @@
-
+// library flutter_cMoon_icons;
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/widgets.dart';
-import 'package:flutter_cMoon_icons/flutter_cMoon_icons.dart';
-
+import 'package:flutter_cmoon_icons/flutter_cmoon_icons.dart';
+// import 'icon_data.dart';
 
 /// Creates an Icon Widget that works for non-material Icons, such as the
 /// Icon Moon Icons.
