@@ -2,11 +2,10 @@ library flutter_cmoon_icons;
 
 import 'package:flutter/material.dart';
 import 'package:flutter_cmoon_icons/src/icondata.dart';
-// import 'package:flutter_cMoon_icons/src/c_icon.dart';
 export 'package:flutter_cmoon_icons/src/cicon.dart';
 export 'package:flutter_cmoon_icons/src/icondata.dart';
 
-// Auto generated icons
+//![Don't edit here] Auto generated icons
 class IconMoon {
   static const IconDataMoon icon_type = const IconDataMoon(
     0xe900,

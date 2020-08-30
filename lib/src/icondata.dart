@@ -11,6 +11,5 @@ class IconDataMoon extends IconData {
           codePoint,
           fontFamily: 'icomoon',
           fontPackage: 'flutter_cMoon_icons',
-       
         );
 }
