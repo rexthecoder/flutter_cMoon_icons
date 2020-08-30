@@ -13,7 +13,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  flutter_cMoon_icons:
+  flutter_cmoon_icons:
     path: ../
   # The following adds the Cupertino Icons font to your application.
   cupertino_icons: ^0.1.3
