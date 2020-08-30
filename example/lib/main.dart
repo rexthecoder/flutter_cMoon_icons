@@ -12,11 +12,11 @@ class CMoonIconsApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Font Awesome Flutter Gallery',
+      title: 'C-Moon Icons',
       theme: ThemeData.light().copyWith(
-        iconTheme: IconThemeData(size: 36.0, color: Colors.black87),
+        iconTheme: IconThemeData(size: 100.0, color: Colors.black87),
         textTheme: TextTheme(
-          body1: TextStyle(fontSize: 16.0, color: Colors.black87),
+      
         ),
       ),
       home: CMoonIconsHome(),
@@ -96,7 +96,7 @@ class CMoonIconsHomeState extends State<CMoonIconsHome> {
 
   AppBar _titleBar() {
     return AppBar(
-      title: Text("Font Awesome Flutter Gallery"),
+      title: Text("C-Moon Icons"),
       actions: [
         IconButton(
             icon: CIcon(IconMoon.icon_1password,color: Colors.black,),
