@@ -2,7 +2,7 @@
 ![Untitled](https://user-images.githubusercontent.com/36260221/91662458-15eb5f00-ead2-11ea-9440-5d800ec1be87.png)
 
 Insipred by Font awesome Icons package🤗. This package contains more than 2000 icons🥰.
-The amazing thing about this icons is that, it comes with it own default Colors🙌🏽 but you can change it to your own choice🤩.No need to bother yourself searching for social media icon 😬 colors.
+The amazing thing about this icons is that, it comes with it own default Colors🙌🏽 but you can change it to your own choice🤩.No need to bother yourself searching for social media icons 😬 colors.
 
 ## Installation
 
